@@ -1,4 +1,4 @@
-Product_ID,Product_Name,Category,Price (INR),Occasion,Description
+product_id,product_name,category,price,occasion,description
 1,Magnam Set,Soft Toys,1935,All Occasions,Quam numquam iste sunt nemo.
 2,Voluptas Box,Plants,441,Valentine's Day,At quaerat animi nemo.
 3,Eius Gift,Colors,1534,Valentine's Day,Deserunt pariatur mollitia voluptatem.
