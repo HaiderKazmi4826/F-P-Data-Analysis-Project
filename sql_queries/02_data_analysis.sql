@@ -10,6 +10,7 @@ SELECT
 FROM
     orders;
 
+-- !Month Wise Revenue
 SELECT
     order_month,
     SUM(total_amount) as total_revenue
